@@ -10,4 +10,4 @@
 image=$1
 smoothed="smoothed_${image}"
 
-convert $image -blur 0x8 $smoothed
+convert $image -blur 0x1 $smoothed
