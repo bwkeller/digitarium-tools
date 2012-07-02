@@ -1,0 +1,6 @@
+set home_planet  Earth
+flag atmosphere off landscape off
+zoom auto initial
+flag track_object on
+select hp 74995
+flag constellation_names on constellation_drawing on
