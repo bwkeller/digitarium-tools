@@ -18,3 +18,7 @@ scripts/
 ----------------
 This directory contains stratoscript planetarium scripts for use with the Nightshade 
 planetarium software.
+
+* gliese.sh
+    * This script shows the Gliese 581 system, which contains a number of 
+    intersesting exoplanets.
